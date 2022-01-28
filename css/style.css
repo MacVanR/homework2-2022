@@ -82,7 +82,7 @@ p{
     border-width: 0px 10px 3px 0px;
 }
 footer{
-    background: linear-gradient(90deg, #000000 0%, #0000ff 25%, #0066ff 70%);
+    background: linear-gradient(90deg, #000000 0%, #0000ff 25%, #0066ff 70%, #000000 0%);
 }
 footer > p{
     text-align: center;
