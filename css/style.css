@@ -48,7 +48,7 @@ p{
     display: block;
     background-color: #ff0000;
     text-align: right;
-    margin-right: 50px;
+    margin-left: 50px;
     border-width: 0px 0px 3px 10px;
     text-shadow: none;
 }
