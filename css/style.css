@@ -19,13 +19,13 @@ h2 span{
 }
 h2{
     font-size: 32px;
-    text-shadow: 2px 4px #808080
+    text-shadow: 2px 4px #808080;
 }
 img{
     display:block;
     width: 350px;
     margin: auto;
-    border: 10px dashed #ffffff
+    border: 10px dashed #ffffff;
 }
 div{
     min-height: 100px;
@@ -36,7 +36,7 @@ div{
     display: block;
     border: solid;
     border-radius: 15px;
-    margin-top: 15 px;
+    margin-top: 15px;
 }
 p{
     font-size:24px;
@@ -82,7 +82,7 @@ p{
     border-width: 0px 10px 3px 0px;
 }
 footer{
-    background: linear-gradient(90deg, #000000 0%, #0000ff 25%, #0066ff 70%)
+    background: linear-gradient(90deg, #000000 0%, #0000ff 25%, #0066ff 70%);
 }
 footer > p{
     text-align: center;
